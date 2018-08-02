@@ -8,3 +8,6 @@ exclude: ["README.md", "README.html"]
 # Build settings
 highlighter: null
 markdown: kramdown
+
+# Post-installation settings
+title: Fantastic Speech
